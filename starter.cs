@@ -41,3 +41,5 @@ public class Program
         // var gevondenContacten = mijnLijst.ZoekContactOpNaam("Jan Jansen");
     }
 }
+
+// hallo dit is een test
